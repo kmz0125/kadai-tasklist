@@ -3,7 +3,7 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>タスクリスト</title>
+        <title>メッセージボード</title>
     </head>
     <body>
         <div id="wrapper">
